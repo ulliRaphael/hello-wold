@@ -1,1 +1,3 @@
 # hello-wold
+ich bin das erste ma. auf GitHub und habe seit ca. 17 Jahren keien Zeiel Code mehr geschrieben....
+Coden war mal mein Hoby und sein Hoby zum Beruf zu machen kann gefärlich sein
